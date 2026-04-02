@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.left {
+    background-color: #FDF9ED;
+    width: 200px;
+    height: 1000px;
+    border: 1px solid #FDF9ED;
+}
+
+.menu .name {
+    margin-left: 15px;
+}
+
+.menu .name h1 {
+    color: #935253;
+}
+
+.menu .name p {
+    color: #76605799;
+}
+
+.dashboard nav ul li {
+    font-size: 18px;
+    list-style: none;
+    color: #766057;
+    margin-left: 15px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.dashboard nav {
+    margin-top: 40px;
+}
+
+.all .right nav .search{
+    border: 1px solid #fbf7edfe;
+    border-radius: 5px;
+    margin-left: 450px;
+    margin-top: 30px;
+    width: 385px;
+    height: 45px;
+}
+
+.all {
+    display: flex;
+}
+
+
+.all .right nav .search input {
+    margin-top: 13px;
+    background: #f7f4ecd7;
+    border: none;
+    outline: none;
+}
+
+.all .right nav .search i {
+    color: gray;
+}
+
+.all .right nav .search{
+    background-color: #f8f4e8d7;
+}
+
+.all .right nav {
+    margin-left: -348px;
+}
+
+.all .right .about {
+    margin-left: 1400px;
+}
+
+.all .right .about {
+    display: flex;
+}
+
+.all .right .about .icon {
+    margin-top: 10px;
+    color: gray;
+    font-size: 25px;
+}
+
+
+
+.all .right .about .all{
+    font-size: 10px;
+    gap: 25px;
+    margin-top: -45px;
+}
+
+.all .right .about .all .name h2 {
+    font-size: 12px;
+}
+
+
+.all .right .about .all .name p {
+    font-size: 10px;
+}
+
+
+
+
+
+
